@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @DeOfficiis
-- 👀 I’m interested in Python AI/ML
+Hello World
+
+- 👋 Hi, I’m @DeOfficiis, 
+- 👀 I’m interested in Python, SQL, Azure, AI/ML
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate a
 - 📫 How to reach me ...
 
 <!---
