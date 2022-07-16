@@ -1,9 +1,11 @@
 Hello World,
 
-I am interested in ETL, and the automation thereof, with a purpose to developing methods, to using the data in realtime.
+I am interested in ETL, and the automation thereof, with a purpose to developing methods to using the data in realtime.
 
-The tools I am concentrating on are Python, SQL, Git, Azure, and AI/ML.
+My main field of interest are the money markets and the financial industry in general, but that's not restrictive; the world is a big and wonderful place, and there are many things that interest me.  
 
-I am new(ish) to datascience, and the purpose of this github is to document the process of discovery.  
+The tools I am concentrating on are Python, SQL, MQL4, Git, Azure, and AI/ML.
 
-We'll see where the road will take me, and I am open to everything.
+I am new(ish) to datascience, and the purpose of maintaining a presence on github is to document process of discovery.  
+
+We'll see where the road will take me.
