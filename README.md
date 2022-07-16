@@ -6,6 +6,4 @@ My main field of interest are the money markets and the financial industry in ge
 
 The tools I am concentrating on are Python, SQL, MQL4, Git, Azure, and AI/ML.
 
-I am new(ish) to datascience, and the purpose of maintaining a presence on github is to document process of discovery.  
-
-We'll see where the road will take me.
+I am new(ish) to datascience and engineering, and the purpose of maintaining a presence on github is - initially - to document process of discovery.  We'll see where the road will take me.
